@@ -1,4 +1,4 @@
-# 👾 ぷろふぃーる
+# 🌱 ぷろふぃーる
 
 ---
 
@@ -12,28 +12,39 @@
 
 ## 🌟 自己紹介
 
-- 🎮 **Minecraftプラグイン開発者**: オリジナルサバイバルサーバーの基幹プラグイン制作・ストリーマーサーバー企画の基幹プラグイン制作・その他、有償依頼での制作
-- 💻 **基本的に**: Javaしか勝たん❤
-- 📢 **YouTube**: [YouTube](https://www.youtube.com/@TDMN_03)にてマイクラ参加型の配信をしています！（この配信でしか楽しめない要素多数）
-- 🌐 **コミュニティリーダー**: MinecraftのT-Projectコミュニティを管理しています。
+- YouTubeではマイクラ参加型コンテンツを配信しています！
+- たまにマイクラのプラグインの制作依頼を受けたり...?
+- T-Projectっていうコミュニティの代表もやってます！
+- マイクラのストリーマーサーバーを制作したり...
 
 ---
 
-## 🛠️ 使用技術
+## 🛠️ できること
 
-- **プログラミング言語**: Java, TypeScript, JavaScript, (HTML), (CSS)
-- **フレームワーク & ツール**: React, Next.js, TailwindCSS, Prisma
-- **その他スキル**: Photoshop, Premiere Pro, Linux(Ubuntu)
+- WEBアプリ開発(TypeScript)：React, Next.js, TailWindCSS, Prisma, shadcn/ui
+- Spigotプラグイン開発(Java)：SpigotAPI, PaperAPI, VaultAPI, WorldEditAPI, SimpleVoiceChatAPI
+- DiscordBot開発(Java, Python, JavaScript)
+- データベース設計(MariaDB)
+- サーバーインフラ整備(Ubuntu)
+- 動画編集(PremierePro)
+- サムネ作成(PhotoShop)
+- 3Dテクスチャ作成(BlockBench)
+
+### ❤️‍🔥 チャレンジしてみたいこと
+
+- PostgreSQLの習得(個人的にMariaDBで満足しちゃってるんだけれど...)
+- Redisの取得(まだRedisを使う場面がない！)
+- Kotlinでプラグインを作ってみたい...!!
+- もっとシステムの設計が上手になれたらな...
 
 ---
 
-## 📌 プロジェクト
+## 📌 T-Projectについて
 
-### 🏗️ T-Project コミュニティサーバー
-コミュニティ主導のプレイを目的とした独自のゲームメカニズムとプラグインを備えたMinecraftサーバー。
-
-### 🎮 Stellafil World
-オープンワールドMMORPGプロジェクト。Minecraftの世界観をさらに拡張中！
+- 透明性・公平性を重視したら新しいゲームコミュニティ
+- 関係者すべてにメリットがある環境の提供を目標に！
+- このコミュニティをフルに活用したインタラクティブなストリーマー企画の開発をしています！（インタラクティブとかいうとChatGPT生成みたい...）
+- T-Projectにマイクラ企画を依頼することでリーズナブルな価格で諸々揃えられる！（宣伝）
 
 
 ---
@@ -45,7 +56,7 @@
 
 ---
 
-## 💬 SNSでつながろう！
+## 💬 ふぉろーみー
 
 - 🌍 [Twitter](https://x.com/tdmn_03)
 - 📺 [YouTube](https://www.youtube.com/@TDMN_03)
